@@ -1,6 +1,3 @@
-Sure, here's a revised version of the `README.md` based on your new direction for the project:
-
-
 # DDoS-Godian
 
 **DDoS-Godian** is a lightweight DDoS protection system designed to handle small-scale DDoS attacks. While it may not yet achieve the high-performance goals of handling millions of requests per minute, it offers foundational protection and logging functionality. This project is now open for the community to improve and enhance its capabilities.
@@ -25,7 +22,7 @@ Sure, here's a revised version of the `README.md` based on your new direction fo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ddos-godian.git
+   git clone https://github.com/ShadowDNS/DDoS-Godianv1.git
    cd ddos-godian
    ```
 
@@ -65,7 +62,7 @@ This project is no longer actively developed by the original creator, and contri
 
 ### Reporting Issues
 
-If you encounter any issues or bugs, please report them on the [GitHub Issues page](https://github.com/your-username/ddos-godian/issues). Provide details on how to reproduce the issue.
+If you encounter any issues or bugs, please report them on the [GitHub Issues page](https://github.com/ShadowDNS/DDoS-Godianv1/issues). Provide details on how to reproduce the issue.
 
 ### License
 
@@ -77,7 +74,7 @@ DDoS-Godian has reached the end of its development by the original creator, and 
 
 ### Contact
 
-For further inquiries or assistance, reach out via the [GitHub Discussions](https://github.com/your-username/ddos-godian/discussions) page.
+For further inquiries or assistance, reach out via the [GitHub Discussions](https://github.com/ShadowDNS/DDoS-Godianv1/discussions) page.
 
 ---
 
