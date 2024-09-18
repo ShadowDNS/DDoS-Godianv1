@@ -1,6 +1,6 @@
 Sure, here's a revised version of the `README.md` based on your new direction for the project:
 
-```markdown
+
 # DDoS-Godian
 
 **DDoS-Godian** is a lightweight DDoS protection system designed to handle small-scale DDoS attacks. While it may not yet achieve the high-performance goals of handling millions of requests per minute, it offers foundational protection and logging functionality. This project is now open for the community to improve and enhance its capabilities.
